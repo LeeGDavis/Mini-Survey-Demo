@@ -1,7 +1,7 @@
 Mini Survey Demo
 
 Single page application using the following components:
- *CoffeeScript
+ * CoffeeScript
  * Backbone.js
  * HTML
  * CSS
