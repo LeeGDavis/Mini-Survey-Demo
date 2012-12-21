@@ -1,1 +1,12 @@
-This file was created by JetBrains WebStorm (WebStorm) WS-124.281 for binding GitHub repository
+Mini Survey Demo
+
+Single page application using the following components:
+<ul>
+    <li>CoffeeScript</li>
+    <li>Backbone.js</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Require.js</li>
+    <li>Mustache.js</li>
+</ul>
+
